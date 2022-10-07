@@ -1,7 +1,7 @@
 {
   "name": "strongbad-action",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "gretzky",
   "license": "MIT",
   "scripts": {

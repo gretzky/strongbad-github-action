@@ -5,4 +5,4 @@ outputs:
     description: "YouTube link of the Strong Bad email"
 runs:
   using: "node16"
-  main: "index.js"
+  main: "dist/index.js"
