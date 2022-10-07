@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Generate an email link
         id: strongbad
-        uses: gretzky/strongbad-action@v0.1.0
+        uses: gretzky/strongbad-github-action@v0.1.0
 
       - name: Get the email link
         run: echo "${{ steps.strongbad.outputs.email }}"
