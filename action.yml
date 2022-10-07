@@ -1,0 +1,8 @@
+name: "Strong Bad Email"
+description: "Get a random Strong Bad email link as an output"
+outputs:
+  email: # id of output
+    description: "YouTube link of the Strong Bad email"
+runs:
+  using: "node16"
+  main: "index.js"
